@@ -1,0 +1,10 @@
+$w: 18px;
+$main-color: red;
+
+.box{
+    width: $w;
+}
+.h {
+    font-size: $w*2;
+    color: $main-color;
+}
